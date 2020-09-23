@@ -25,7 +25,4 @@ on the Docker Hub.
     # Now on your laptop
     xdg-open http://admin:8080
 
-In your web browser you should see the firefox, ready to connect to 
-and IPMI KVM:
 
-![IPMI Screenshot](https://raw.githubusercontent.com/solarkennedy/ipmi-kvm-docker/master/screenshot.png)
