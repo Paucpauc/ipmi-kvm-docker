@@ -13,9 +13,6 @@ This container runs:
 * Firefox - For browsing IPMI consoles
 * Java-plugin - Because... you need java to access most IPMI KVM Consoles.
 
-This is a [trusted build](https://registry.hub.docker.com/u/solarkennedy/ipmi-kvm-docker/)
-on the Docker Hub.
-
 ## Run It
 
     # on a remote host that can reach ipmi
